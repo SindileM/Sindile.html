@@ -1,0 +1,21 @@
+a:link{
+    color: #FF0000;
+  }
+a:visited{
+    color: cadetblue;
+}
+a:hover {
+    color: purple;
+h1:{
+    color: cadetblue;
+} 
+div{
+    background-color: crimson;
+    color: white;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  div:hover {
+    background-color: blue;
+  }
